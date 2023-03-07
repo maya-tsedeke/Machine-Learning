@@ -45,7 +45,8 @@ Once the segmentation process is completed, the next step is to count the cells 
 Overall, the approach of varying the radius values during segmentation can help to identify cells of different sizes and shapes, while the final counting step with a larger radius can help to remove noise and obtain a more accurate count of the cells in the image. Let us see the following steps and its result to run the MATLAB code. Each output was named by their file number to cross check in all figure output results.
   
     Step 1: Input (Original image)
-     ![Optional Text](Screenshot 1.png)
+     !(Screenshot 1.png)
+     Screenshot 1.png
     Step 2: Output (Grayscale image)
      ![Optional Text](Screenshot 2.png)
     Step 3: Output (Threshold image)
