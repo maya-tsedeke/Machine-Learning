@@ -49,7 +49,7 @@ Overall, the approach of varying the radius values during segmentation can help 
     Step 2: Output (Grayscale image)
      ![Optional Text](Screenshot 2.png)
     Step 3: Output (Threshold image)
-     ![Screenshot](/Screenshot%201.png)
+     ![Screenshot](Screenshot%201.png)
     Step 4: Output (Opened image)
     ![Screenshot](Screenshot 4.png)
     Step 5: Output (Closed image)
