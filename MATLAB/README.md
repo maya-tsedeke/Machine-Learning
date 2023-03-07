@@ -54,7 +54,7 @@ Step 4: Output (Opened image)
 ![Screenshot](4.png)
 Step 5: Output (Closed image)
 ![Screenshot](5.png)
-Step 6: Labeled Image
+Step 6: Output (Labeled Image)
 ![Screenshot](6.png)
     Step 7: Final output bottles counting results from labeled image is:
 
