@@ -44,18 +44,18 @@ The segmentation process is the step in which the cells in the image are separat
 Once the segmentation process is completed, the next step is to count the cells in the segmented regions. In this case, the bottles are counted with a radius value of maximum 20 to 30. This means that the final count is obtained by considering only the segmented regions with a radius of 20 to 30 pixels. This step helps to remove any small, noise-like regions that may have been segmented with smaller radius values.
 Overall, the approach of varying the radius values during segmentation can help to identify cells of different sizes and shapes, while the final counting step with a larger radius can help to remove noise and obtain a more accurate count of the cells in the image. Let us see the following steps and its result to run the MATLAB code. Each output was named by their file number to cross check in all figure output results.
   
-    Step 1: Input (Original image)
-     ![Screenshot](Machine-Learning/MATLAB/1.png)
-    Step 2: Output (Grayscale image)
-     ![Screenshot](2.png)
-    Step 3: Output (Threshold image)
-     ![Screenshot](3.png)
-    Step 4: Output (Opened image)
-    ![Screenshot](4.png)
-    Step 5: Output (Closed image)
-    ![Screenshot](5.png)
-    Step 6: Labeled Image
-    ![Screenshot](6.png)
+Step 1: Input (Original image)
+![Screenshot](Machine-Learning/MATLAB/1.png)
+Step 2: Output (Grayscale image)
+![Screenshot](2.png)
+Step 3: Output (Threshold image)
+![Screenshot](3.png)
+Step 4: Output (Opened image)
+![Screenshot](4.png)
+Step 5: Output (Closed image)
+![Screenshot](5.png)
+Step 6: Labeled Image
+![Screenshot](6.png)
     Step 7: Final output bottles counting results from labeled image is:
 
             >> main
